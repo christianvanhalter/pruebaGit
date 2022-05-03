@@ -1,0 +1,38 @@
+.logo-latam{
+    width: 10em;
+}
+
+h1{
+    display: inline !important;
+}
+
+
+@media screen and (min-width: 375px) {
+    .logo-latam{
+        width: 10em;
+    }
+    /*
+    body {
+      background-color: blue;
+    }
+    */
+  }
+
+  @media screen and (min-width: 768px) {
+    .logo-latam{
+        width: 12em;
+    }
+    /*
+    body {
+      background-color: green;
+    }*/
+  }
+
+  @media screen and (min-width: 992px) {
+    .logo-latam{
+        width: 14em;
+    }
+    /* body {
+      background-color: red;
+    }*/
+  }
